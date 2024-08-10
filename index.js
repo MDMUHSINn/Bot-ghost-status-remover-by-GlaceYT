@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = {NONE}
+const statusMessages = 
 
 
 let currentIndex = 0;
