@@ -39,7 +39,7 @@ app.listen(port, () => {
 const statusMessages = ["E", "x" , "p" ,"e","r","i","m","e","n","t","Experiment"]
 
 
-let currentIndex = 0;
+let currentIndex = 0.5;
 const channelId = '';1263205086297985134
 
 async function login() {
