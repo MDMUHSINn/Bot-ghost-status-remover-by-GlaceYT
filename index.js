@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["E", "x" , "p" ,"e","r","i","m","e","n","t","Experiment"]
+const statusMessages = ["Type /help"]
 
 
 let currentIndex = 0;
